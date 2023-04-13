@@ -15,7 +15,7 @@ OpenAIのGPT-3.5-turboを使用して会話を行うPythonスクリプトです�
     `pip install openai`
 
 
-3. リポジトリのルートディレクトリに`secrets.json`ファイルを作成し、以下のような形式でOpenAI APIキーを記述します。OPENAIのマイページからAPIを取得して記述します。
+3. リポジトリのルートディレクトリに`secrets.json`ファイルを作成し、以下のような形式でOpenAI APIキーを記述します。OpenAIのマイページ (https://platform.openai.com/account/api-keys) からAPIを取得して記述します。
 
 ```json
 {
